@@ -1,0 +1,45 @@
+/*
+        body {            
+            font-size: 20px;           
+            line-height: 1.4;
+        }
+        .flex-container {           
+            height: 500px;
+            border: 2px blueviolet solid;    
+            display: flex;
+            margin-right: 10px;
+            display: flex;
+            justify-items: left;
+            padding: 5px;
+            border-spacing: 5px;
+            
+
+              }              
+
+        .flex-itm {
+            font-weight: bold;
+            margin-right: 10px;
+        }
+
+
+        <body>
+    
+    <div class="flex-container">
+        <div class="flex-itm" id="flex-itm-1"> Home </div>
+        <div class="flex-itm" id="flex-itm-2"> About </div>
+        <div class="flex-itm" id="flex-itm-3">Search</div>
+        <div class="flex-itm" id="flex-itm-4">New</diV>
+        <div class="flex-itm" id="flex-itm-5">Comment</div>
+    </div>
+
+</body>
+        */
+
+        
+
+        
+
+          
+          
+        
+    
